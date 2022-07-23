@@ -14,7 +14,9 @@
 
 -  **German (B2, Goethe Certified)**
 - **Microsoft Certified - Azure AI Fundamentals** <br> 
-- **MEAN Stack App Development** <br> 
+- **MEAN Stack App Development** <br>
+- **3D - Printing** <br>
+- **HTML5 and CSS3** <br>
 - **TCS iON Career Edge - Young Professional** <br> *enhances skills such as communication, collaboration, business etiquette, financial and digital literacy skills*
 
 ### Projects
