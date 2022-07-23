@@ -22,7 +22,8 @@
 
 ## Projects
 **Multi Room Assitant** <br> 
-*Technologies used: Arduino IDE, ESP32 SoC, QR code technology, HTML5, CSS3, Relay Module, DHT11* <br><br>
+*Technologies used: Arduino IDE, ESP32 SoC, QR code technology, HTML5, CSS3, Relay Module, DHT11* <br>
+[Project Link](https://github.com/wickedseer/Multi-Room-Assistant) <br><br>
 **IOT with ESP32**<br>
 Led a group project in 2nd semester; built sample codes with various sensors and actuators to understand ESP32 functions and capabilities. <br>
 *Technologies used: Arduino IDE, ESP32 SoC, DHT11, HC-SR501, Relay Module* <br><br>
