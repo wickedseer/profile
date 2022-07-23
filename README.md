@@ -1,6 +1,6 @@
 # Vridhi Sachdev
 
-## Academic Qualifications
+## 🎓 Academic Qualifications
 **Bachelor of Engineering** in Artificial Intelligence and Data Science <br>
 [Ajeenkya DY Patil School of Engineering](https://dypsoe.in/) - Pune, Maharashtra *(2020 - present)* <br>
 *Currently in TE* <br>
@@ -11,7 +11,7 @@
 **Secondary School** <br>
 [St. Arnold's Central School](https://www.arnoldcentralschool.org/) - Pune, Maharashtra *(2018)* <br>
 
-## Additional Cerifications
+## ✨ Additional Cerifications
 
 -  **German (B2, Goethe Certified)**
 - **Microsoft Certified Azure AI Fundamentals** <br> 
@@ -20,7 +20,7 @@
 - **HTML5 and CSS3** <br>
 - **TCS iON Career Edge - Young Professional** <br> *enhances skills such as communication, collaboration, business etiquette, financial and digital literacy skills*
 
-## Projects
+## ⚒️ Projects
 **Multi Room Assitant** <br> 
 *Technologies used: Arduino IDE, ESP32 SoC, QR code technology, HTML5, CSS3, Relay Module, DHT11* <br>
 [Project Link](https://github.com/wickedseer/Multi-Room-Assistant) <br><br>
@@ -31,11 +31,11 @@ Led a group project in 2nd semester; built sample codes with various sensors and
 Designed and developed a recipe system for adding and deleting recipes from a user profile using RDBMS as MySQL. <br>
 *Technologies used: Net beans IDE, Java, MySQL* <br>
 
-## Work Experience
+## 👩🏼‍💻 Work Experience
 **Foreign language trainer (German)** <br>
 Working on different projects of [Multibhashi Solutions Pvt Ltd](https://www.multibhashi.com/) from *15 February 2022 till date.* <br>
 
-## Languages
+## 💬 Languages
 **English** : Native <br>
 **Hindi**: Native <br>
 **German**: B2.2 (Goethe Certified)
