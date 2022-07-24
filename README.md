@@ -1,7 +1,7 @@
 # Vridhi Sachdev
 *IoT Enthusiast & Cake Entrepreneur* <br>
 
-[Email](mailto:vridhi.ritesh.sachdev@gmail.com) | [Github](https://github.com/wickedseer/)
+[Email](mailto:vridhi.ritesh.sachdev@gmail.com) / [Github](https://github.com/wickedseer/)
 
 
 ## 🎓 Academic Qualifications
