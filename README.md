@@ -18,8 +18,7 @@
 - **MEAN Stack App Development** <br>
 - **3D - Printing** <br>
 - **HTML5 and CSS3** <br>
-- **TCS iON Career Edge - Young Professional** <br> *enhances skills such as communication, collaboration, business etiquette, financial and digital literacy skills*
-
+- **TCS iON Career Edge - Young Professional** <br> 
 ## ⚒️ Projects
 **Multi Room Assitant** <br> 
 *Technologies used: Arduino IDE, ESP32 SoC, QR code technology, HTML5, CSS3, Relay Module, DHT11* <br>
@@ -36,7 +35,7 @@ Designed and developed a recipe system for adding and deleting recipes from a us
 Working on different projects of [Multibhashi Solutions Pvt Ltd](https://www.multibhashi.com/) from *15 February 2022 till date.* <br>
 
 ## 💬 Languages
-**English** : Native <br>
+**English**: Native <br>
 **Hindi**: Native <br>
 **German**: B2.2 (Goethe Certified)
 
