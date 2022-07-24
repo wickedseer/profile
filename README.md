@@ -2,7 +2,7 @@
 
 ## 🎓 Academic Qualifications
 **Bachelor of Engineering** in Artificial Intelligence and Data Science <br>
-[Ajeenkya DY Patil School of Engineering](https://dypsoe.in/) - Pune, Maharashtra *(2020 - present)* <br>
+[Ajeenkya DY Patil School of Engineering](https://dypsoe.in/) - Pune, Maharashtra *(2021 - present)* <br>
 *Currently in TE* <br>
 
 **Higher Secondary School** in Physics, Chemistry and Mathematics (PCM) <br>
@@ -33,7 +33,7 @@ Designed and developed a recipe system for adding and deleting recipes from a us
 
 ## 👩🏼‍💻 Work Experience
 **Foreign language trainer (German)** <br>
-Working on different projects of [Multibhashi Solutions Pvt Ltd](https://www.multibhashi.com/) from *15 February 2022 till date.* <br>
+Working on different projects of [Multibhashi Solutions Pvt Ltd](https://www.multibhashi.com/)  *(15th February 2022 - present).* <br>
 
 ## 💬 Languages
 **English**: Native <br>
