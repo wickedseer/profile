@@ -1,4 +1,8 @@
 # Vridhi Sachdev
+*IoT Enthusiast & Cake Entrepreneur* <br>
+
+[Email](mailto:vridhi.ritesh.sachdev@gmail.com) | [Github](https://github.com/wickedseer/)
+
 
 ## 🎓 Academic Qualifications
 **Bachelor of Engineering** in Artificial Intelligence and Data Science <br>
@@ -20,7 +24,7 @@
 - **HTML5 and CSS3** <br>
 - **TCS iON Career Edge - Young Professional** <br>
 
-## ⚒️ Projects
+## 🛠️ Projects
 **Multi Room Assitant** <br> 
 *Technologies used: Arduino IDE, ESP32 SoC, QR code technology, HTML5, CSS3, Relay Module, DHT11* <br>
 [Project Link](https://github.com/wickedseer/Multi-Room-Assistant) <br><br>
