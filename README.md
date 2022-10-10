@@ -15,7 +15,7 @@
 **Secondary School** <br>
 [St. Arnold's Central School](https://www.arnoldcentralschool.org/) - Pune, Maharashtra *(2018)* <br>
 
-## ✨ Additional Cerifications
+## ✨ Additional Certifications 
 
 -  **German (B2, Goethe Certified)**
 - **Microsoft Certified Azure AI Fundamentals** <br> 
