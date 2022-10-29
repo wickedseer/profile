@@ -1,5 +1,4 @@
 # Vridhi Sachdev
-*IoT Enthusiast & Cake Entrepreneur* <br>
 
 [Email](mailto:vridhi.ritesh.sachdev@gmail.com) / [Github](https://github.com/wickedseer/)
 
@@ -7,18 +6,22 @@
 ## 🎓 Academic Qualifications
 **Bachelor of Engineering** in Artificial Intelligence and Data Science <br>
 [Ajeenkya DY Patil School of Engineering](https://dypsoe.in/) - Pune, Maharashtra *(2021 - present)* <br>
+SE SGPA 9.48 <br>
 *Currently in TE* <br>
 
 **Higher Secondary School** in Physics, Chemistry and Mathematics (PCM) <br>
 [The Lexicon International School](https://lexiconedu.in/) - Pune, Maharashtra *(2020)* <br>
+94% <br>
 
 **Secondary School** <br>
 [St. Arnold's Central School](https://www.arnoldcentralschool.org/) - Pune, Maharashtra *(2018)* <br>
+91.6% <br>
 
 ## ✨ Additional Certifications 
 
 -  **German (B2, Goethe Certified)**
-- **Microsoft Certified Azure AI Fundamentals** <br> 
+- **Microsoft Certified Azure AI Fundamentals** <br>
+- **Power BI** <br>
 - **MEAN Stack App Development** <br>
 - **3D - Printing** <br>
 - **HTML5 and CSS3** <br>
