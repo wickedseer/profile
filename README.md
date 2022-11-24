@@ -1,6 +1,6 @@
 # Vridhi Sachdev
 
-[Email](mailto:vridhi.ritesh.sachdev@gmail.com) / [Github](https://github.com/wickedseer/) / [LinkedIn](www.linkedin.com/in/vridhisachdev)
+[Email](mailto:vridhi.ritesh.sachdev@gmail.com) / [Github](https://github.com/wickedseer/) / [LinkedIn](https://www.linkedin.com/in/vridhisachdev/)
 
 
 ## 🎓 Academic Qualifications
