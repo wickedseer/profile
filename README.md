@@ -19,21 +19,23 @@ SE SGPA 9.48 <br>
 
 ## ✨ Additional Certifications 
 
-- **Microsoft Certified Azure AI Fundamentals** <br>
+- **Microsoft Certified: Azure AI Fundamentals** <br>
 - **IBM Certified: Deep Learning Essentials** <br>
 - **Power BI** <br>
-- **3D - Printing** <br>
 - **TCS iON Career Edge - Young Professional** <br>
-- **Goethe Zertifikat B2 (German Certification)**
+- **Goethe Zertifikat B2 (German Certification)** <br>
+- **3D - Printing** <br>
 
 ## 🛠️ Projects
 **Multi Room Assitant** <br>
+
 *Technologies used: Arduino IDE, ESP32 SoC, QR code technology, HTML5, CSS3, Relay Module, DHT11* <br>
 [Project Link](https://github.com/wickedseer/Multi-Room-Assistant) <br><br>
+
 **Recipe Management System**<br>
 Designed and developed a recipe system for adding and deleting recipes from a user profile using RDBMS as MySQL. <br>
 *Technologies used: Net beans IDE, Java, MySQL* <br>
-[Project Link]()
+[Project Link](https://github.com/wickedseer/Recipe_System)
 
 ## 👩🏼‍💻 Work Experience
 **Foreign language trainer (German)** <br>
